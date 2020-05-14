@@ -1,2 +1,3 @@
 # AR-Filters
-Collections of AR Face Filters made using SparkAR Studio for Instagram
+Collection of AR Face Filters made using SparkAR Studio for Instagram
+
